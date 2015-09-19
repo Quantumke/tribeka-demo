@@ -18,3 +18,23 @@
 	width:100px;
 	margin:-60px 0 0 -50px;
 }
+
+.header-bg{
+background: url("../img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 690px;  
+}
+.logo{
+margin-left: 10px;
+    margin-top: 30px;
+    border: 2px white solid;
+    width: 230px;
+    height: auto;
+    overflow: hidden;
+    color: white;
+    font-size: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
