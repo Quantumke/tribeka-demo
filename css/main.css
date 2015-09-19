@@ -97,8 +97,15 @@ padding-top: 8px;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 30px;
-    background: black;
+    background: purple;
     height: 300px;
     padding-bottom: 30px;
+    color: white;
+
+}
+
+.event-desc:hover{
+    background: white;
+
     
 }
