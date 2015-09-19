@@ -88,24 +88,44 @@ padding-top: 8px;
   
 }
 .event-list{
-   background: yellow; 
+
     height: 300px;
     float: left;
 }
 
 .event-desc{
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 30px;
-    background: purple;
-    height: 300px;
+    padding-left: 100px;
+    padding-right: 90px;
+    padding-top: 0px;
+
+    height: 500px;
     padding-bottom: 30px;
-    color: white;
+    color: black;
+
 
 }
 
 .event-desc:hover{
-    background: white;
+cursor: pointer;
+
+}
+
+.cart{
 
     
+}
+.cart:hover{
+   top: -100px;
+    background: red;
+    width: auto;
+    height: 20px;
+    position: relative;
+
+}
+.set-image{
+ max-height:100%;
+    height:auto;
+    width:100%;
+    max-width:100%;
+    margin:auto
 }
