@@ -8,7 +8,7 @@ var QueryLoader = {
 	doneStatus: 0,
 	doneNow: 0,
 	selectorPreload: "body",
-	ieLoadFixTime: 1001010000,
+	ieLoadFixTime: 1000,
 	ieTimeout: "",
 		
 	init: function() {
