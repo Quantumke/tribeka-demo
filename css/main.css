@@ -44,5 +44,61 @@ background: url("../img/bg.jpg");
     
 }
 
+.why{
+    position: absolute;
 
+    height: 70px;
+    padding-left: 1%;
+    padding-right: 1%;
+    border: 2px white solid;
+    text-align: center;
+    text-transform: uppercase;
+top: 480px;
+    color: white;
+padding-top: 8px;
+    font-size: 35px;
+    cursor: pointer;
+}
+.why:hover{
+    background: white;
+    color: #8B8993;
+    border: none;
+}
 
+.events-btn{
+   
+ position: absolute;
+
+    height: 70px;
+    padding-left: 1%;
+    padding-right: 1%;
+    border: 2px white solid;
+    text-align: center;
+    text-transform: uppercase;
+top: 480px;
+    color: white;
+padding-top: 8px;
+    font-size: 35px;
+    cursor: pointer;
+    left: 60%
+
+}
+.events-leader-board {
+    height: 400px;
+  
+}
+.event-list{
+   background: yellow; 
+    height: 300px;
+    float: left;
+}
+
+.event-desc{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    background: black;
+    height: 300px;
+    padding-bottom: 30px;
+    
+}
